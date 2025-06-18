@@ -28,7 +28,7 @@ body {
   height: 100%;
   display: grid;
   place-items: center;
-  margin: 4rem;
+  margin: 4rem 0;
   background-color: var(--Stone-100);
   font-family: "Outfit", sans-serif;
 }
@@ -204,7 +204,7 @@ body {
   body {
     width: 100%;
     height: fit-content;
-    margin-top: 0rem;
+    margin: 0rem;
     background-color: var(--White);
   }
 
